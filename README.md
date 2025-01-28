@@ -13,6 +13,6 @@
 - [X] Error management (w/sentry)
 - [X] Routing/ image page (parallel route)
 - [X] Update upload button styles using shadcn an toasters
-- [ ] Analytics (posthog)
+- [X] Analytics (posthog)
 - [ ] delete buttons with server actions
 - [ ] Rate-limiting (upstash) 
