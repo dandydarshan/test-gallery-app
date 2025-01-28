@@ -14,5 +14,5 @@
 - [X] Routing/ image page (parallel route)
 - [X] Update upload button styles using shadcn an toasters
 - [X] Analytics (posthog)
-- [ ] delete buttons with server actions
-- [ ] Rate-limiting (upstash) 
+- [X] delete buttons with server actions
+- [X] Rate-limiting (upstash) 
