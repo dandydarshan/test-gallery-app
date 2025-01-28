@@ -12,6 +12,7 @@
 - [X] Use Next/Image component
 - [X] Error management (w/sentry)
 - [X] Routing/ image page (parallel route)
-- [ ] delete byuttons with server actions
+- [X] Update upload button styles using shadcn an toasters
 - [ ] Analytics (posthog)
+- [ ] delete buttons with server actions
 - [ ] Rate-limiting (upstash) 
